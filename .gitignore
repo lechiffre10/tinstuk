@@ -15,3 +15,7 @@
 /log/*
 !/log/.keep
 /tmp
+.idea/misc.xml
+.idea/modules.xml
+.idea/tinstuk.iml
+.idea/workspace.xml
